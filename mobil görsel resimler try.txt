@@ -1,0 +1,86 @@
+
+
+    <div class="container container-lg">
+      <div class="row align-items-center">
+        <div class="col">
+          <div class="row">
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="tedaviler.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/tedaviler.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="implant.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/implant.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="ortodonti.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/ortodonti.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="pedodonti-cocuk-dis-tedavisi.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/pedodonti.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="dental-turizm.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/dental-turizm.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="featured-boxes featured-boxes-modern-style-1 m-0 pb-1">
+                <div class="featured-box featured-box-no-borders featured-box-box-shadow">
+                  <a href="telsiz-ortodonti-invisalign.html" class="text-decoration-none">
+                    <span class="box-content px-1 py-4 d-block">
+                      <span class="elements-list-shadow-icon text-default"><img src="img/mobile-backs/invisalign.jpg" alt="antalya şiş hekimi"></span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>

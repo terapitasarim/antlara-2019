@@ -1,0 +1,49 @@
+.elements-list-shadow-icon {
+    opacity: 0.9;
+}
+
+.featured-box {
+    min-height: 100px;
+	margin: 10px 0px !important;
+
+}
+
+.foto-bosluk {
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+
+#footer {
+	margin-top: 0px;
+}
+
+.process .process-step-circle {
+	height: 70px;
+	width: 70px;
+	border: 2px solid #3d8bc9;
+}
+
+.home-intro {
+    background-color: #c4cccf;
+    padding: 1.4rem 0;
+}
+
+.home-intro p {
+    color: #39566d;
+}
+
+.thumb-info.thumb-info-slide-info-hover .thumb-info-wrapper-no-opacity:after {
+    opacity: 0.4;
+}
+
+.featured-boxes-flat .featured-box .box-content {
+    margin-top: 0px
+}
+
+.card-body2 {
+    padding: 8px 8px;
+}
+
+.thumb-info .thumb-info-action-icon i {
+    font-size: 40px;
+}

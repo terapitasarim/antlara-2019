@@ -1,0 +1,33 @@
+========================================
+
+   PHP ile eposta gönderim uygulamasý
+
+========================================
+
+YASAL UYARI :
+
+Örnek uygulamanýn kullanýlmasýndan doðabilecek her türlü veri kaybý ya da diðer sorunlardan kullanýcý sorumludur. "Niobeweb Internet Hizmetleri" bu konularda sorumlu tutulamaz. Kullanýcý bu kosullarý peþinen kabul etmiþ sayýlýr.
+
+Örnek uygulama Genel Kamu Lisansý ile lisanslanmýþtýr. Bunun için LISANS.TXT dosyasýna gözatabilirsiniz. Türkçe lisans metni için de http://www.belgeler.org/howto/gpl.html adresini kullanabilirsiniz.
+
+========================================
+
+TEKNÝK BÝLGÝLER :
+
+- Örnek uygulama için herhangi bir güvenlik mekanizmasi yazýlmamýþtýr. php-smtp.php dosyasýna gönderilen verilerin doðruluðu ve zararlý bilgi içerip, içermediðinin kontrolü kullanýcýya aittir. Olabildiðince, ziyaretçilerin hareketlerine güvenmeyerek, maksimum kod güvenliðini saðlamaya çalýþýnýz.
+
+- Örnek uygulama þu anki hali ile çalýþýr durumdadýr. php-smtp.php dosyasýnýn içerisinden;
+
+     $mail->Host = "mail.bikesoft.net";
+     $mail->Username = "destek@bikesoft.net";
+     $mail->Password = "**********";
+
+satýrlarýný kendinize göre düzenlemeniz gerekmektedir. Bu alanlara yazýlacak bilgilerin doðru ve çalýþýr olmasý gerekmektedir. Dilerseniz eposta iþlemleri için panelinizde ayri bir eposta hesabý açýp, bilgilerini yukarýdakiler ile deðiþtirebilirsiniz.
+
+- Eposta konu baþlýðý ve eposta gövdesi gibi düzenlemeleri $mail->Subject, $mail->AltBody ve $mail->Body degiskenlerini duzenleyerek yapabilirsiniz.
+
+- Epostanýn kimden, kime gideceði ile ilgili bilgileri de $mail->From, $mail->AddAddress degiskenleri ile belirleyebilirsiniz.
+
+- form.php dosyanýzý web sunucunuz üzerinden çaðýrarak test edebilirsiniz.
+
+========================================
